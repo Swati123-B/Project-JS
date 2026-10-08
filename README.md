@@ -1,8 +1,12 @@
 Keywords vs identifiers — side by side
+
 Keyword	Identifier
+
 Who creates it?	JavaScript (fixed)	You (your choice)
+
 Can it be renamed?	No	Yes
-Meaning	Fixed, built-in	Whatever you define
+
+
 Example	let, if, function	age, greet, totalPrice
 Why this matters for Playwright
 You write identifiers constantly in test code: locators like const loginButton = page.locator("#login"); — if you accidentally name one delete, new, or return, the test file fails before it even runs.
