@@ -14,7 +14,7 @@ switch (day) {
         console.log("Web");
         break;
     case 4:
-        console.log("Thus");
+        console.log("Thurs");
         break;
     case 5:
         console.log("Fri");
