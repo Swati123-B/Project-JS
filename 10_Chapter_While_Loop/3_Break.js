@@ -7,3 +7,4 @@ while(true){
     }
     age++;
 }
+// break will put out of the loop

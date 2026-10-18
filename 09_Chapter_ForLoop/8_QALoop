@@ -1,0 +1,8 @@
+for( let R =0; R <18;R++)
+{
+    if(R>15){
+        console.log("R get Gifted")
+    }else{
+        console.log("R Not get Gifted")
+    }
+}
