@@ -1,0 +1,2 @@
+let fruts=[];
+console.log
