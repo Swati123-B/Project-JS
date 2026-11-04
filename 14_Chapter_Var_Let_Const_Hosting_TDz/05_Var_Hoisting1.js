@@ -8,3 +8,5 @@ console.log(greeting);
 // console.log(greeting);    <-- undefined
 // greeting = "Hello!";      <-- assignment stays in place
 // console.log(greeting);    <-- "Hello!"
+// Note: The above code will not throw an error because var is hoisted and initialized with undefined.
+
