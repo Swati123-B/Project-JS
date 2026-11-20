@@ -4,7 +4,7 @@ interface Excetable{
     getStatus(): string;
 }
 
-class TestCase implements Excetable{
+export class TestCase implements Excetable{
     name: string;
     constructor(name: string) {
         this.name = name;
